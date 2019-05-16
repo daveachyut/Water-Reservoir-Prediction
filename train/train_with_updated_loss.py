@@ -7,6 +7,7 @@ Notes:
     Prepped data should be in the: ./data/prepped/ directory
 """
 
+"""Author: Achyut"""
 
 import os
 from skimage import transform
